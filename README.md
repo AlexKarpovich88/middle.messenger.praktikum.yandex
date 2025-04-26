@@ -1,8 +1,8 @@
 #### Можно посмотреть по сылке названия проэкта
-# [netlify](https://peppy-kataifi-67414a.netlify.app/)
+# [netlify](https://timely-biscuit-b3b47a.netlify.app/)
 
 ### Deploy
-[![Netlify Status](https://api.netlify.com/api/v1/badges/659b4ecb-259f-4927-9378-a4b4cdd1cc66/deploy-status)](https://app.netlify.com/sites/peppy-kataifi-67414a/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c06a8ff7-0491-4a06-9de1-2230bcfb6982/deploy-status)](https://app.netlify.com/sites/timely-biscuit-b3b47a/deploys)
 
 ### [Макет](https://www.figma.com/design/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?node-id=0-1&p=f&t=ikbd2TZeyRr3MWw4-0)
 
